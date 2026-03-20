@@ -1,5 +1,9 @@
 # Sales-Analysis-by-Product-and-Region
 Analyze  a sales data with Pivot Table and provided some insightful observations
+## Analysis  Workflow
+
+![Sales Dashboard](product.png)
+
 # Sales Analysis by Product and Region
 
 ![Sales Dashboard](./Default%20Sheet%20Image.png)
